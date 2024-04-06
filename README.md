@@ -1,4 +1,4 @@
-# Efficient-LLMs-via-Switchable-and-Dynamic-Quantization
+# Efficient-LLMs-via-Switchable-and-Dynamic-Quantization-using main2.py
 
 current status： Epoch 25/40
 -------------------------------
